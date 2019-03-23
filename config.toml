@@ -1,0 +1,6 @@
+baseURL = "http://dot-lab.github.io/sekai"
+languageCode = "en-us"
+theme = "indigo"
+title = "世界徒然草"
+canonifyurls = true
+publishdir = "public"
