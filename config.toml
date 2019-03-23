@@ -1,6 +1,6 @@
-baseURL = "http://dot-lab.github.io/sekai"
-languageCode = "en-us"
-theme = "indigo"
+baseURL = "https://dot-lab.github.io/sekai"
+languageCode = "ja"
+theme = "tale"
 title = "世界徒然草"
 canonifyurls = true
 publishdir = "public"
