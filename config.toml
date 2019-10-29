@@ -1,4 +1,4 @@
-baseURL = "https://dot-lab.github.io/sekai"
+baseURL = "https://sekai.dot-lab.xyz/"
 languageCode = "en"
 theme = "terminal"
 title = "世界徒然草"
