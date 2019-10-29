@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 世界徒然草</title>
-    <link>https://dot-lab.github.io/sekai/tags/</link>
+    <link>https://sekai.dot-lab.xyz/tags/</link>
     <description>Recent content in Tags on 世界徒然草</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="https://dot-lab.github.io/sekai/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sekai.dot-lab.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
